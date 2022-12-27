@@ -1,3 +1,5 @@
+import "../lib/dayjs";
+
 import "../styles/globals.css";
 import type { AppProps } from "next/app";
 import { NoSsr, ThemeProvider } from "@mui/material";
